@@ -10,10 +10,6 @@
 </div>
 
 ---
-
-
-### ⚔️ TECH STACK*
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,react,docker,azure,gcp,git,supabase,tensorflow&perline=10" />
 </p>

@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⭐ UMEMA ⭐
+# ⭐ UMEMA ASHAR ⭐
 ### *AI/ML Engineer — Data Scientist*
 
 <picture>
